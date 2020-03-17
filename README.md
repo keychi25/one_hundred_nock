@@ -9,7 +9,7 @@
 [Qiitaの記事](https://qiita.com/yoyoyo_/items/2ef53f47f87dcf5d1e14)  
 [GitHubのリポジトリ](https://github.com/yoyoyo-yo/Gasyori100knock)
 
-# 進捗状況
+# 
 |番号|Python(ソースコード)|チェック|
 |:---:|:---:|:---:|
 |1|[BGRからRGB](src/1-10/q1.ipynb)|○|
@@ -17,4 +17,4 @@
 |3|[二値化](src/1-10/q3.ipynb)|○|
 |4|[大津の二値化](src/1-10/q4.ipynb)|○|
 |5|[HSV変換](src/1-10/q5.ipynb)|○|
-|6|[HSV変換](src/1-10/q5.ipynb)| |
+|6|[減色処理](src/1-10/q6.ipynb)|○|
